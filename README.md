@@ -87,6 +87,9 @@ User Input (company name)
 | `lib/agent.js` | LangGraph state graph — the core agent with 3 nodes |
 | `app/api/research/route.js` | Next.js API route that runs the agent |
 | `app/page.js` | React frontend — search bar, loading states, report display |
+| `LLM_CHAT_LOGS.md` | Full development transcript logs showing interaction with the LLM pair programmer |
+| `LICENSE` | MIT License for the project |
+
 
 ### The 3 Agent Nodes
 
@@ -163,3 +166,15 @@ User Input (company name)
 - **Tavily** — AI-optimized web search
 - **Tailwind CSS** — Styling
 - **Vercel** — Deployment
+
+---
+
+## 🎁 Bonus: LLM Chat Transcript Logs
+
+As mandated in the assignment instructions, this project was developed using a conversational AI/LLM pair programming workflow. 
+
+The complete development transcript logs documenting all the queries, design iterations, debugging sessions, and architectural decisions are included in:
+👉 **[LLM_CHAT_LOGS.md](file:///X:/College/Placement%20internship%20assignment/Inside%20IIM/ai-investment-agent/LLM_CHAT_LOGS.md)** (located in the root folder of this project)
+
+This log file gives complete insight into the thinking process, problem-solving approach, and steps taken to build this application.
+
